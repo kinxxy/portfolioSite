@@ -11,8 +11,8 @@ import { SiAdobexd, SiExpress, SiFiverr, SiMongodb } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
 
 export const menu = [
-    {name:"About Me"},
-    {name:"My Services"},
+    {name:"About"},
+    {name:"Services"},
     {name:"Skill"},
     {name:"Projects"},
     {name:"Testimonial"},
