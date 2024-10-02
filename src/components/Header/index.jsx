@@ -75,7 +75,7 @@ const Header = () => {
             <div className="header__info__bottom">
             <a href="https://drive.google.com/file/d/1_myaTZQ7P0btsLBQ5zWArm5ZE0JzMM3F/view?usp=drive_link" download>
             <button className="btn">Download CV</button></a>
-              <a href="hastingsgold@gmail.com" className="btn">Email Me</a>
+              <a href="mailto:hastingsgold@gmail.com" className="btn">Email Me</a>
             </div>
           </div>
         </div>
